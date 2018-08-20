@@ -1,0 +1,24 @@
+Antipasta; American Kobe Beef Meatballs; 12.00
+Antipasta; San Danielle Prosciutto, Peaches, Goat Cheese, Saba; 15.00
+Antipasta; Oven Baked Lump Crab Cake, Whole Grain Mustard; 16.00
+Antipasta; Grilled Octopus, Pork Sausage, Feta, Chickpeas, Spicy Romesco; 18.00
+Insalat; Baby Arugula, Shaved Parmigiano, Lemon Olive Oil; 10.00
+Insalat; Chopped Romaine, Green Beans, Tomatoes, Niman Bacon, Blue Cheese; 13.00
+Insalat; Farro, Shaved Cauliflower, Avocado, Peas, Peppadews, Parmigiano; 14.00
+Insalat; Shaved Brussels Sprouts, Strawberries, Prima Donna Cheese, Champagne Vinaigrette; 12.00
+Entrata; Hand-Rolled Potato Gnocchi, Organic Mushrooms, Basil, White Truffle Oil; 25.00
+Entrata; Braised Veal Agnolotti, Black Truffles, Parmigiano; 29.00
+Entrata; Rosted Veal Sirloin, Potatoes, Oyster Mushrooms, Cipollini, Marsala; 42.00
+Entrata; Pan Seared Georges Bank Sea Scallops, Sweet Creamy Corn, Match Stick Potatoes; 37.00
+Entrata; Roasted Free Range Chicken, Creamy Potatoes, Brussels Sprouts, Lemon Butter; 27.00
+Entrata; Grilled Prime Flat Iron, Horseradish Potatoes, Asparagus, Vintage Port; 38.00
+Entrata; Seared Atlantic Salmon, Quinoa, Baby Beets, Crabmeat-Avocado Salad; 31.00
+Bevanda; Cappuccino; 5.00
+Bevanda; Expresso; 4.00
+Bevanda; California 2013 Red Wine, by glass; 12.00
+Bevanda; California 2012 White Wine, by glass; 12.00
+Bevanda; Peligrino Sparkling Water, by bottle; 8.00
+Dolce; Tiramisu; 8.00
+Dolce; Cannoli; 5.00
+Dolce; Belgian Truffles; 5.00
+Dolce; Carrot Cake; 7.99
